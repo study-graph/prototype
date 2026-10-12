@@ -1,0 +1,16 @@
+# Corpus & generated artifacts
+netze.md
+netze.clean.md
+chunks.json
+embeddings.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# uv (keep uv.lock tracked for reproducibility)
+.uv/
+
+# macOS
+.DS_Store
